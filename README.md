@@ -1,6 +1,7 @@
-#Hi, I'm Daiki 👋
+# Hi, I'm Daiki 👋
 
 現在フロントエンドエンジニアを目指して学習しています。
+HTML / CSS / JavaScript を中心に、Frontend Mentor の課題を通してUI実装を練習しています。
 
 ## Skills
 
