@@ -1,16 +1,24 @@
-## Hi there 👋
+#Hi, I'm Daiki 👋
 
-<!--
-**Daiki02100729/Daiki02100729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+現在フロントエンドエンジニアを目指して学習しています。
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Git / GitHub
+
+## Learning
+
+- Frontend Mentorで課題制作
+- レスポンシブデザイン
+- UI実装
+
+## Projects
+- QR Code Component
+- Social Proof Section
+- Article Preview Component
+
+## Goal
+ユーザーが使いやすいWebサービスを作れるエンジニアを目指しています。
