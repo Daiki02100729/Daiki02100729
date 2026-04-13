@@ -1,6 +1,7 @@
 # Hi, I'm Daiki 👋
 
 現在フロントエンドエンジニアへの転身を目指して学習しています。
+
 HTML / CSS / JavaScript を中心に、Frontend Mentor の課題や
 オリジナルアプリの開発を通じてアウトプットを積んでいます。
 
